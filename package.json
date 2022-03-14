@@ -1,0 +1,13 @@
+{
+  "name": "zepton-router",
+  "version": "0.1.0",
+  "description": "Router component for the zepton framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameen Ahmed <ameen.ahmed.b@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
